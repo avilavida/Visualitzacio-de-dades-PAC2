@@ -10,7 +10,7 @@ This repository contains three different data visualizations created for the PAC
 
 2. **Arc Diagram**:
    - **Title**: IMDb's Most Featured Actors: Collaboration Network
-   - **Description**: This arc diagram represents the collaboration network of the most featured actors on IMDb. It illustrates the relationships between actors based on the number of films in which they have appeared together.
+   - **Description**: This arc diagram represents the collaboration network of the most featured actors on IMDb. It illustrates the relationships between actors based on the number of films in which they have appeared together. The code for this diagram was adapted from [D3 Graph Gallery - Arc Diagram](https://d3-graph-gallery.com/graph/arc_template.html).
 
 3. **OHLC Chart**:
    - **Title**: Tesla Stock Price 2024 - 2025 (OHLC)
