@@ -1,0 +1,106 @@
+{
+    "nodes": [
+        {
+            "id": 1,
+            "name": "Jeremy Clarkson",
+            "grp": 1,
+            "n": 2.489391796322489
+        },
+        {
+            "id": 2,
+            "name": "Richard Hammond",
+            "grp": 1,
+            "n": 2.489391796322489
+        },
+        {
+            "id": 3,
+            "name": "Brian Klein",
+            "grp": 1,
+            "n": 2.2913719943422914
+        },
+        {
+            "id": 4,
+            "name": "James May",
+            "grp": 1,
+            "n": 2.2065063649222068
+        },
+        {
+            "id": 5,
+            "name": "Kino Abe",
+            "grp": 2,
+            "n": 1.8670438472418671
+        },
+        {
+            "id": 6,
+            "name": "Mae Whitman",
+            "grp": 3,
+            "n": 1.8104667609618106
+        },
+        {
+            "id": 7,
+            "name": "Emmanuel Esparza",
+            "grp": 4,
+            "n": 1.7256011315417255
+        },
+        {
+            "id": 8,
+            "name": "Essined Aponte",
+            "grp": 4,
+            "n": 1.7256011315417255
+        },
+        {
+            "id": 9,
+            "name": "Manuel Navarro",
+            "grp": 4,
+            "n": 1.7256011315417255
+        },
+        {
+            "id": 10,
+            "name": "Masakazu Morita",
+            "grp": 2,
+            "n": 1.669024045261669
+        }
+    ],
+    "links": [
+        {
+            "source": 1,
+            "target": 4
+        },
+        {
+            "source": 1,
+            "target": 3
+        },
+        {
+            "source": 1,
+            "target": 2
+        },
+        {
+            "source": 2,
+            "target": 4
+        },
+        {
+            "source": 2,
+            "target": 3
+        },
+        {
+            "source": 3,
+            "target": 4
+        },
+        {
+            "source": 5,
+            "target": 10
+        },
+        {
+            "source": 7,
+            "target": 8
+        },
+        {
+            "source": 7,
+            "target": 9
+        },
+        {
+            "source": 8,
+            "target": 9
+        }
+    ]
+}
