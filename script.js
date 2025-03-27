@@ -28,7 +28,17 @@ svg.append("text")
     .style("font-size", "24px") 
     .style("font-family", "PT Sans") // Change this to your preferred font
     .style("font-weight", "bold") 
-    .text("Actor Collaboration Graph");
+    .text("IMDb's Most Featured Actors: Collaboration Network");
+
+svg.append("text")
+    .attr("x", width / 2)
+    .attr("y", 45)  // Positioning below the main title
+    .attr("text-anchor", "middle")
+    .style("font-size", "16px")
+    .style("font-family", "PT Sans")
+    .style("font-weight", "normal")
+    .style("fill", "gray")
+    .text("Actors connected based on collaborations in TV shows and films")
 
 
 // Read dummy data
