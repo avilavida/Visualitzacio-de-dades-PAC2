@@ -1,9 +1,9 @@
 // set the dimensions and margins of the graph
 d3.selectAll("h1").remove();
 
-var margin = {top: 0, right: 150, bottom: 200, left: 150},
+var margin = {top: 0, right: 150, bottom: 50, left: 150},
   width = window.innerWidth - margin.left - margin.right,
-  height = 700 - margin.top - margin.bottom;
+  height = 650 - margin.top - margin.bottom;
 
   d3.select("#my_dataviz")
   .style("display", "flex")
