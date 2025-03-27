@@ -24,4 +24,4 @@ This repository contains three different data visualizations created for the PAC
 
 ## How to View the Visualizations
 
-You can view the interactive visualizations using the following link: [Charts](https://avilavida.github.io/Visualitzaci-de-dades-PAC2/)
+You can view the three visualizations using the following link: [Charts](https://avilavida.github.io/Visualitzaci-de-dades-PAC2/)
