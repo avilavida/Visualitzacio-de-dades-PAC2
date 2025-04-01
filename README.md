@@ -19,8 +19,8 @@ This repository contains three different data visualizations created for the PAC
 ## Data Sources
 
 - **Line Chart (COVID-19 Data)**: [WHO COVID-19 Dashboard](https://data.who.int/dashboards/covid19/data)
-- **Arc Diagram (IMDb Data)**: Data extracted from [Kaggle IMDb Dataset](https://www.kaggle.com/datasets/payamamanat/imbd-dataset/data).
-- **OHLC Chart (Tesla Stock Data)**: Data retrieved from [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/history/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADv7PU0QVh0T8BEAKeQQIZm-pHbHB8xPjbSl0ALIjw4zSAF_rG3qp4RKY6Ze8o3QJnooVSKyW545lAjJJV5_m-fCyoV7Q8n-WZMRituNa8KB8jGoO_y08oOSR3NwJ8BjbC8EmNF4kFoh5x4Nzm61nT7M_eCKfi0JyGlPaBIVW7el).
+- **Arc Diagram (IMDb Data)**: [Kaggle IMDb Dataset](https://www.kaggle.com/datasets/payamamanat/imbd-dataset/data).
+- **OHLC Chart (Tesla Stock Data)**: [Yahoo Finance](https://finance.yahoo.com/quote/TSLA/history/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAADv7PU0QVh0T8BEAKeQQIZm-pHbHB8xPjbSl0ALIjw4zSAF_rG3qp4RKY6Ze8o3QJnooVSKyW545lAjJJV5_m-fCyoV7Q8n-WZMRituNa8KB8jGoO_y08oOSR3NwJ8BjbC8EmNF4kFoh5x4Nzm61nT7M_eCKfi0JyGlPaBIVW7el).
 
 ## How to View the Visualizations
 
